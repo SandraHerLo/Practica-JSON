@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Supermercado2 array="true">
+  <Nombre>Aldi</Nombre>
+  <Dirección>Carretera de Martos, 27</Dirección>
+  <Geolocalización>37.7891042964074, -3.784886331702021</Geolocalización>
+  <seccion>fruteria</seccion>
+  <numpersonas number="true">11</numpersonas>
+  <costespersonal number="true">23035</costespersonal>
+  <productos>
+    <nombre>sandía sin pepitas</nombre>
+    <descripcion>sandía sin pepitas de Córdoba</descripcion>
+    <enOferta boolean="true">true</enOferta>
+    <peso>kg</peso>
+    <unidades number="true">25</unidades>
+    <adquirido>si/no</adquirido>
+    <origen>España</origen>
+    <perecedero boolean="true">true</perecedero>
+    <precioVta>1.30</precioVta>
+    <fechaEntrada>23/4/2023 5:12 a.m.</fechaEntrada>
+  </productos>
+  <productos>
+    <nombre>kiwi amarillo</nombre>
+    <descripcion>kiwi amarillo de Huelva</descripcion>
+    <enOferta boolean="true">false</enOferta>
+    <peso>kg</peso>
+    <unidades number="true">37</unidades>
+    <adquirido>si/no</adquirido>
+    <origen>España</origen>
+    <perecedero boolean="true">true</perecedero>
+    <precioVta number="true">0.83</precioVta>
+    <fechaEntrada>23/4/2023 5:16 a.m.</fechaEntrada>
+  </productos>
+  <productos>
+    <nombre>manzana golden</nombre>
+    <descripcion>manzana golden de Cádiz</descripcion>
+    <enOferta boolean="true">false</enOferta>
+    <peso>kg</peso>
+    <unidades number="true">42</unidades>
+    <adquirido>si/no</adquirido>
+    <origen>España</origen>
+    <perecedero boolean="true">true</perecedero>
+    <precioVta number="true">0.79</precioVta>
+    <fechaEntrada>23/4/2023 5:23 a.m.</fechaEntrada>
+  </productos>
+  <seccion2>pescadería</seccion2>
+  <numpersonas2 number="true">9</numpersonas2>
+  <costespersonal2 number="true">23000</costespersonal2>
+  <productos2>
+    <nombre>almejas</nombre>
+    <descripcion>almejas del cantábrico</descripcion>
+    <enOferta boolean="true">true</enOferta>
+    <peso>kg</peso>
+    <unidades number="true">13</unidades>
+    <adquirido>si/no</adquirido>
+    <origen>España</origen>
+    <perecedero boolean="true">true</perecedero>
+    <precioVta>4.75</precioVta>
+    <fechaEntrada>25/4/2023 4:33 a.m.</fechaEntrada>
+  </productos2>
+  <productos2>
+    <nombre>calamar</nombre>
+    <descripcion>calamar del atlántico</descripcion>
+    <enOferta boolean="true">false</enOferta>
+    <peso>kg</peso>
+    <unidades number="true">15</unidades>
+    <adquirido>si/no</adquirido>
+    <origen>España</origen>
+    <perecedero boolean="true">true</perecedero>
+    <precioVta number="true">13.45</precioVta>
+    <fechaEntrada>25/4/2023 4:43 a.m.</fechaEntrada>
+  </productos2>
+  <productos2>
+    <nombre>dorada</nombre>
+    <descripcion>dorada del mediterráneo</descripcion>
+    <enOferta boolean="true">true</enOferta>
+    <peso>kg</peso>
+    <unidades number="true">33</unidades>
+    <adquirido>si/no</adquirido>
+    <origen>España</origen>
+    <perecedero boolean="true">true</perecedero>
+    <precioVta number="true">6.00</precioVta>
+    <fechaEntrada>25/4/2023 4:45 a.m.</fechaEntrada>
+  </productos2>
+  <seccion3>panadería</seccion3>
+  <numpersonas3 number="true">5</numpersonas3>
+  <costespersonal3 number="true">20500</costespersonal3>
+  <productos3>
+    <nombre>barra de pan</nombre>
+    <descripcion>barra de pan 100% integral grande</descripcion>
+    <enOferta boolean="true">true</enOferta>
+    <peso>kg</peso>
+    <unidades number="true">12</unidades>
+    <adquirido>si/no</adquirido>
+    <origen>España</origen>
+    <perecedero boolean="true">true</perecedero>
+    <precioVta>4.05</precioVta>
+    <fechaEntrada>27/4/2023 7:05 a.m.</fechaEntrada>
+  </productos3>
+  <productos3>
+    <nombre>rosca</nombre>
+    <descripcion>rosca grande</descripcion>
+    <enOferta boolean="true">false</enOferta>
+    <peso>kg</peso>
+    <unidades number="true">19</unidades>
+    <adquirido>si/no</adquirido>
+    <origen>España</origen>
+    <perecedero boolean="true">true</perecedero>
+    <precioVta number="true">1.35</precioVta>
+    <fechaEntrada>27/4/2023 7:21 a.m.</fechaEntrada>
+  </productos3>
+  <productos3>
+    <nombre>pan de pueblo</nombre>
+    <descripcion>pan de pueblo mediano</descripcion>
+    <enOferta boolean="true">true</enOferta>
+    <peso>kg</peso>
+    <unidades number="true">37</unidades>
+    <adquirido>si/no</adquirido>
+    <origen>España</origen>
+    <perecedero boolean="true">true</perecedero>
+    <precioVta number="true">3.65</precioVta>
+    <fechaEntrada>27/4/2023 7:55 a.m.</fechaEntrada>
+  </productos3>
+</Supermercado2>

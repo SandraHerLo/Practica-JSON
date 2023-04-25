@@ -1,0 +1,132 @@
+{
+  "Supermercado3": [
+      {
+        "Nombre":"Carrefour",
+        "Dirección": "Paseo del parque, 15",
+        "Geolocalización": "37.76295041066256, -3.9401845",
+        "seccion": "fruteria",
+        "numpersonas": 10,
+        "costespersonal": 25000,
+        "productos":[
+          {
+            "nombre": "kiwi amarillo",
+            "descripcion": "kiwi amarillo de Huelva",
+            "enOferta": false,
+            "peso": "kg",
+            "unidades": 56,
+            "adquirido": "si/no",
+            "origen": "España",
+            "perecedero": true,
+            "precioVta": "0.93",
+            "fechaEntrada": "23/4/2023 6:05 a.m."
+          },
+          {
+            "nombre": "sandía sin pepitas",
+            "descripcion": "sandía sin pepitas de Cádiz",
+            "enOferta": true,
+            "peso": "kg",
+            "unidades": 16,
+            "adquirido": "si/no",
+            "origen": "España",
+            "perecedero": true,
+            "precioVta": "1.55",
+            "fechaEntrada": "23/4/2023 5:11 a.m."
+          },
+          {
+            "nombre": "manzana golden",
+            "descripcion": "manzana golden de Córdoba",
+            "enOferta": false,
+            "peso": "kg",
+            "unidades": 38,
+            "adquirido": "si/no",
+            "origen": "España",
+            "perecedero": true,
+            "precioVta": "0.79",
+            "fechaEntrada": "23/4/2023 5:16 a.m."
+          }
+        ],
+        "seccion2": "pescadería",
+        "numpersonas2": 7,
+        "costespersonal2": 21500,
+        "productos2":[
+          {
+            "nombre": "dorada",
+            "descripcion": "dorada de cantábrico",
+            "enOferta": true,
+            "peso": "kg",
+            "unidades": 14,
+            "adquirido": "si/no",
+            "origen": "España",
+            "perecedero": true,
+            "precioVta": "5.69",
+            "fechaEntrada": "25/4/2023 4:30 a.m."
+          },
+          {
+            "nombre": "almejas",
+            "descripcion": "almejas del atlántico",
+            "enOferta": false,
+            "peso": "kg",
+            "unidades": 35,
+            "adquirido": "si/no",
+            "origen": "España",
+            "perecedero": true,
+            "precioVta": "5.95",
+            "fechaEntrada": "25/4/2023 4:43 a.m."
+          },
+          {
+            "nombre": "calamar",
+            "descripcion": "calamar de Huelva",
+            "enOferta": true,
+            "peso": "kg",
+            "unidades": 50,
+            "adquirido": "si/no",
+            "origen": "España",
+            "perecedero": true,
+            "precioVta": "13.35",
+            "fechaEntrada": "25/4/2023 4:51 a.m."
+          }
+        ],
+        "seccion3": "panadería",
+        "numpersonas3": 5,
+        "costespersonal3": 17500,
+        "productos3":[
+          {
+            "nombre": "rosca",
+            "descripcion": "rosca grande",
+            "enOferta": false,
+            "peso": "kg",
+            "unidades": 34,
+            "adquirido": "si/no",
+            "origen": "España",
+            "perecedero": true,
+            "precioVta": "2.50",
+            "fechaEntrada": "27/4/2023 7:13 a.m."
+          },
+          {
+            "nombre": "barra integral",
+            "descripcion": "barra grande de pan integral 100%",
+            "enOferta": true,
+            "peso": "kg",
+            "unidades": 40,
+            "adquirido": "si/no",
+            "origen": "España",
+            "perecedero": true,
+            "precioVta": "4.15",
+            "fechaEntrada": "27/4/2023 7:31 a.m."
+          },
+          {
+            "nombre": "pan de pueblo",
+            "descripcion": "pan de pueblo mediano",
+            "enOferta": true,
+            "peso": "kg",
+            "unidades": 67,
+            "adquirido": "si/no",
+            "origen": "España",
+            "perecedero": true,
+            "precioVta": "2.95",
+            "fechaEntrada": "27/4/2023 7:41 a.m."
+          }
+        ]
+      }
+    ]
+}
